@@ -11,7 +11,7 @@ st.set_page_config(page_title="Employee Income Prediction", page_icon="👤", la
 # ---------------------------
 # Auth helpers
 # ---------------------------
-USERNAME = "admin"
+USERNAME = "charan"
 PASSWORD = "1234"
 
 if "logged_in" not in st.session_state:
